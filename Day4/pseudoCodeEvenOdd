@@ -1,0 +1,9 @@
+Pseudo Code:-
+
+Step1 :- Start
+Step2 :- Enter Number
+Step3 :- Read number and store it in variable num
+Step4 :- If number or variable(num) % 2 == 0 Then
+Step5 :- Display Message "Number Is Even"
+Step6 :- Else Display Message "Number is Odd"
+Step7 :- End
